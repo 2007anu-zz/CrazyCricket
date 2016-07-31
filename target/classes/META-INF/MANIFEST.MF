@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Crazy Cricket REST API
+Implementation-Version: SNAPSHOT
+Built-By: Anuj
+Implementation-Vendor-Id: com.bfm.acs
+Build-Jdk: 1.8.0_65
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
